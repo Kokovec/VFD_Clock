@@ -21,11 +21,18 @@ It takes a little bit of time upfront to get the baseline in place so the AI eng
 Sometimes the AI engine will make the wrong assumptions about APIs or go off an older version of an open source library.
 It's almost like working with a headstrong younger Engineer who doesn't ask questions when they fail to understand something.
 
-At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which can be purchased from Mouser for $20.00 (it used to be $10 before the COVID fiasco).
-The rest of the boards were bought off Amazon.
+At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which can be purchased from Mouser for $20.00 (it used to be $10 before the COVID fiasco).  
+  
+![image](https://github.com/user-attachments/assets/936be44b-1d2e-4606-b4c4-67d4dd59f627)
+  
+  
+The rest of the boards were bought off Amazon.  
   
 ![image](https://github.com/user-attachments/assets/8e2fd54e-7ff9-4571-bef6-a3b0aac83c6d)
   
 ![image](https://github.com/user-attachments/assets/c5ca54c2-c733-4d01-82b8-1b1767655074)
-  
+
+![image](https://github.com/user-attachments/assets/8791c792-f16d-48aa-8124-36bbcc9df6f2)
+
+![image](https://github.com/user-attachments/assets/4cb44e61-2048-48fb-931e-8d440f6435eb)
 
