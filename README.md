@@ -25,6 +25,7 @@ At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which ca
   
 ![image](https://github.com/user-attachments/assets/936be44b-1d2e-4606-b4c4-67d4dd59f627)
   
+The PIR board I found in one of my junk boxes. It's an older board that doesn't have sensitivity adjustments.  
   
 The rest of the boards were bought off Amazon.  
   
