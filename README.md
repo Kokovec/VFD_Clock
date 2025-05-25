@@ -1,7 +1,7 @@
 # VFD_Clock
 A VFD Clock Display - PSOC5
 
-I found these Russian suprlus Vacuum Florescent Displays on EBAY.
+I found these Russian surplus Vacuum Florescent Displays on EBAY.
 Many of the electronic toys I had in the 70's and early 80's had VFD diplays in them.
 LEDs and LCD displays simply don't have the cool glow of a VFD. Of course, there's a huge nostalgia kick for me.
 ![image](https://github.com/user-attachments/assets/6d9cd61b-a2c1-439b-bf9f-f02647730ac5)
