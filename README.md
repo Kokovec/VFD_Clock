@@ -11,4 +11,23 @@ LEDs and LCD displays simply don't have the cool glow of a VFD. Of course, there
 
 I've never designed anything using a VFD so I decided to read up on them and build a clock.
 This is a simple clock design with the VFD as the clock display, three buttons (brightness, clock up, clock down), and a PIR to detect if someone's in the room.
-The clock's display turns off when the PIR doesn't detect a person (or animal) in the vicinity. It uses an RTC board with battery backup.
+The clock's display turns off after 5 minutes when the PIR doesn't detect a person (or animal) in the vicinity. It uses an RTC board with battery backup.
+
+I didn't write a single line of code. It was created by using GROK.  
+I've used Copilot and Chat GPT in the past as well, so I decided to give GROK a go.  
+AI is good for low level coding and is a real time saver, but you need to get good at formulating the prompts with enough detail to get what you want out of it.  
+Also, when building an embedded design it's good to give the AI engine all the datasheets and tell it how you organized the circuits.  
+It takes a little bit of time upfront to get the baseline in place so the AI engine can use that to roll back code to a known state and help you troubleshoot.  
+Sometimes the AI engine will make the wrong assumptions about APIs or go off an older version of an open source library.
+It's almost like working with a headstrong younger Engineer who doesn't ask questions when they fail to understand something.
+
+At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which can be purchased from Mouser for $20.00 (it used to be $10 before the COVID fiasco).
+The rest of the boards were bought off Amazon.
+
+RTC Board:
+![image](https://github.com/user-attachments/assets/8e2fd54e-7ff9-4571-bef6-a3b0aac83c6d)
+  
+H-Bridge Board:
+![image](https://github.com/user-attachments/assets/c5ca54c2-c733-4d01-82b8-1b1767655074)
+  
+
