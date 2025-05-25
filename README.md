@@ -23,11 +23,9 @@ It's almost like working with a headstrong younger Engineer who doesn't ask ques
 
 At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which can be purchased from Mouser for $20.00 (it used to be $10 before the COVID fiasco).
 The rest of the boards were bought off Amazon.
-
-RTC Board:
+  
 ![image](https://github.com/user-attachments/assets/8e2fd54e-7ff9-4571-bef6-a3b0aac83c6d)
   
-H-Bridge Board:
 ![image](https://github.com/user-attachments/assets/c5ca54c2-c733-4d01-82b8-1b1767655074)
   
 
