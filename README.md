@@ -4,7 +4,7 @@
 
 ![IMG_4650](https://github.com/user-attachments/assets/f3be5c88-f3c3-4beb-ae60-e10e518ec862)
 
-I found these Russian surplus Vacuum Florescent Displays on EBAY.
+<h3>I found these Russian surplus Vacuum Florescent Displays on EBAY.
 Many of the electronic toys I had in the 70's and early 80's had VFD diplays in them.
 LEDs and LCD displays simply don't have the cool glow of a VFD. Of course, there's a huge nostalgia kick for me.
 ![image](https://github.com/user-attachments/assets/6d9cd61b-a2c1-439b-bf9f-f02647730ac5)
@@ -27,7 +27,7 @@ At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which ca
   
 The PIR board I found in one of my junk boxes. It's an older board that doesn't have sensitivity adjustments.  
   
-The rest of the boards were bought off Amazon.  
+The rest of the boards were bought off Amazon.</h3>  
   
 ![image](https://github.com/user-attachments/assets/8e2fd54e-7ff9-4571-bef6-a3b0aac83c6d)
   
