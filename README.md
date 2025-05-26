@@ -1,5 +1,5 @@
 # VFD_Clock
-A VFD Clock Display - PSOC5
+<h2>A VFD Clock Display - PSOC5</h2>h2>
 
 
 ![IMG_4650](https://github.com/user-attachments/assets/f3be5c88-f3c3-4beb-ae60-e10e518ec862)
