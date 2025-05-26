@@ -101,7 +101,7 @@ static volatile uint32_t fade_start_time = 0; // Start time of the fade
 // Display control variables for PIR detection
 static volatile uint8_t display_on = 0; // 0 = display off, 1 = display on
 static volatile uint32_t display_timeout = 0; // Timestamp when display should turn off
-#define DISPLAY_TIMEOUT_MS (5 * 60 * 1000) // 5 minutes in milliseconds (changed from 10 seconds)
+#define DISPLAY_TIMEOUT_MS (3 * 60 * 1000) // 5 minutes in milliseconds (changed from 10 seconds)
 
 // Time-setting mode variables
 static volatile uint8_t time_setting_mode = 0; // 0 = normal, 1 = setting time
