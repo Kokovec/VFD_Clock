@@ -5,8 +5,11 @@
 ![IMG_4650](https://github.com/user-attachments/assets/f3be5c88-f3c3-4beb-ae60-e10e518ec862)
 
 <h3>I found these Russian surplus Vacuum Florescent Displays on EBAY.  
+
 Many of the electronic toys I had in the 70's and early 80's had VFD diplays in them.  
+
 LEDs and LCD displays simply don't have the cool glow of a VFD.  
+
 Of course, there's a huge nostalgia kick for me.</h3>  
 
 ![image](https://github.com/user-attachments/assets/6d9cd61b-a2c1-439b-bf9f-f02647730ac5)
