@@ -6,10 +6,10 @@
 
 <h3>I found these Russian surplus Vacuum Florescent Displays on EBAY.
 Many of the electronic toys I had in the 70's and early 80's had VFD diplays in them.
-LEDs and LCD displays simply don't have the cool glow of a VFD. Of course, there's a huge nostalgia kick for me.
+LEDs and LCD displays simply don't have the cool glow of a VFD. Of course, there's a huge nostalgia kick for me.</h3>  
 ![image](https://github.com/user-attachments/assets/6d9cd61b-a2c1-439b-bf9f-f02647730ac5)
 
-I've never designed anything using a VFD so I decided to read up on them and build a clock.
+<h3>I've never designed anything using a VFD so I decided to read up on them and build a clock.
 This is a simple clock design with the VFD as the clock display, three buttons (brightness, clock up, clock down), and a PIR to detect if someone's in the room.
 The clock's display turns off after 3 minutes when the PIR doesn't detect a person (or animal) in the vicinity. It uses an RTC board with battery backup.
 
@@ -21,11 +21,11 @@ It takes a little bit of time upfront to get the baseline in place so the AI eng
 Sometimes the AI engine will make the wrong assumptions about APIs or go off an older version of an open source library.
 It's almost like working with a headstrong younger Engineer who doesn't ask questions when they fail to understand something.
 
-At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which can be purchased from Mouser for $20.00 (it used to be $10 before the COVID fiasco).  
+At the heart of the design is a PSOC5LP development board (CY8CKIT-059) which can be purchased from Mouser for $20.00 (it used to be $10 before the COVID fiasco).</h3>  
   
 ![image](https://github.com/user-attachments/assets/936be44b-1d2e-4606-b4c4-67d4dd59f627)
   
-The PIR board I found in one of my junk boxes. It's an older board that doesn't have sensitivity adjustments.  
+<h3>The PIR board I found in one of my junk boxes. It's an older board that doesn't have sensitivity adjustments.  
   
 The rest of the boards were bought off Amazon.</h3>  
   
