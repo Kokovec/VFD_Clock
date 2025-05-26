@@ -11,7 +11,7 @@ LEDs and LCD displays simply don't have the cool glow of a VFD. Of course, there
 
 I've never designed anything using a VFD so I decided to read up on them and build a clock.
 This is a simple clock design with the VFD as the clock display, three buttons (brightness, clock up, clock down), and a PIR to detect if someone's in the room.
-The clock's display turns off after 5 minutes when the PIR doesn't detect a person (or animal) in the vicinity. It uses an RTC board with battery backup.
+The clock's display turns off after 3 minutes when the PIR doesn't detect a person (or animal) in the vicinity. It uses an RTC board with battery backup.
 
 I didn't write a single line of code. It was created by using GROK.  
 I've used Copilot and Chat GPT in the past as well, so I decided to give GROK a go.  
